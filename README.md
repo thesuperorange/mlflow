@@ -14,14 +14,14 @@ python train_KNN.py
 
 ## Dataset
 ### regression
-* car.csv
 * 195_auto_price.tsv
+* 210_cloud.csv
 * babies.csv
 
 ### classification
-
-
-
+* car.csv
+* titanic.csv
+* wdbc.csv
 
 
 ## Run
