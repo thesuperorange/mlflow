@@ -37,11 +37,15 @@ mlflow run sklearn-ex -P i=/home/serena/mlflow/sklearn-ex/dataset/babies_noNA.cs
 
 
 ## Results comparison
+
 * dashboard
+
 ![](img/mlflow_KNN_car_comparison.PNG)
 
 * accuracy comparison
+
 ![](img/mlflow_logistic_R2.PNG)
 
 * chart
+
 ![](img/mlflow_results_scatter_plot.PNG)
