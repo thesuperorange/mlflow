@@ -1,0 +1,15 @@
+artifact_uri: file:///home/serena/mlflow/sklearn-ex/mlruns/0/7c4f27a714ce4c72a549cfeb5086559f/artifacts
+end_time: 1589855530586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7c4f27a714ce4c72a549cfeb5086559f
+run_uuid: 7c4f27a714ce4c72a549cfeb5086559f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1589855530577
+status: 3
+tags: []
+user_id: superorange
